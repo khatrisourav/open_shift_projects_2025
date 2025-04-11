@@ -1,5 +1,5 @@
 
-<body bgcolor='aqua'>
+<body bgcolor='red'>
 <?php
 print("hello");
 ?>
